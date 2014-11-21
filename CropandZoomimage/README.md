@@ -1,13 +1,11 @@
 # [Crop and Zoom Image in JSP]
 
-I'm Ravi Chhatrala. I was finding a jQuery demo for my project to crop and zoom image before I upload it to Java server.
-I found so many demos working with php but didn't get with JSP or Servlet. 
-So I developed this simple demo to crop an image and upload it to server via servlet - Jsp.
+We were finding a jQuery demo for one of project to crop and zoom image before we upload it to Java server.
+We found so many demos working with php but didn't get with JSP or Servlet. 
+So We developed this simple demo to crop an image and upload it to server via servlet - Jsp.
 This demo is developed in Netbeans IDE 8.0.1.
 
-(http://)
-
-A simple jQuery image cropping plugin is developed by Fengyuan Chen. I've just edited jQuery as per my requirements. 
+A simple jQuery image cropping plugin is developed by Fengyuan Chen. We've just edited jQuery as per our requirements. 
 You can also see his complete demo on..
 
 - [Documentation](http://fengyuanchen.github.io/cropper)
@@ -193,3 +191,4 @@ Simply gets the value of session attribute and displays cropped image.
 
 Released under the [MIT](http://opensource.org/licenses/mit-license.html) license.
 
+-- Created By Agileinfoways (http://www.agileinfoways.com)
